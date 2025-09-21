@@ -35,7 +35,7 @@ To empower artists and creators to securely and efficiently mint and sell digita
 - ⛓️ Add integration with payment tokens or assets.
 - 🖼️ Include NFT media file URIs and richer metadata.
 - 👛 Wallet linking and transfer history tracking.
-- 🛒 NFT marketplace functionality and bidding system.
+- 🛒 NFT marketplace functionality and bidding system
 
 
 ## Contract Details
